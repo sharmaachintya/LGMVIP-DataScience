@@ -1,4 +1,4 @@
-|--- feature_3 <= 0.25
+|--- feature_3 <= 0.25 
 |   |--- feature_3 <= 0.15
 |   |   |--- class: 0
 |   |--- feature_3 >  0.15
@@ -28,7 +28,7 @@
 |   |   |--- feature_3 >  1.25
 |   |   |   |--- class: 9
 |   |--- feature_3 >  1.35
-|   |   |--- feature_3 <= 1.55
+|   |   |--- feature_3 <= 1.55 
 |   |   |   |--- feature_3 <= 1.45
 |   |   |   |   |--- class: 10
 |   |   |   |--- feature_3 >  1.45
