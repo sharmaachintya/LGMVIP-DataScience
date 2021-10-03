@@ -1,5 +1,6 @@
 ﻿# LGMVIP-DataScience
  ## TASK 1 : Iris Flowers Classification ML Project
+ <br></br>
 **Performed Classification on the Iris Dataset by the following steps :**
 - Importing all the necessary Libraries
 - Loading the Dataset
@@ -11,10 +12,11 @@
 
 
 -------------------------------------------------------
-
+<br></br>
 
 
 ## TASK 2: Image to Pencil Sketch with Python
+<br></br>
 **Converted an RGB Image into a Pencil Sketch with the help of following steps**
 - Importing OpenCV Library
 - Loading RBG Image
@@ -22,4 +24,4 @@
 - Inverting the Greyscale Image
 - Using Gaussian Blur to blur the Greyscale image to reduce noise
 - Converteing the Blurred Image into Pencil Sketch
-
+<br></br>
