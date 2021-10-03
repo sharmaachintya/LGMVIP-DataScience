@@ -25,3 +25,9 @@
 - Using Gaussian Blur to blur the Greyscale image to reduce noise
 - Converteing the Blurred Image into Pencil Sketch
 <br></br>
+<br></br>
+
+-------------------------------------------------------
+<br></br>
+
+## TASK 3: 
