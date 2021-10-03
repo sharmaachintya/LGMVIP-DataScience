@@ -9,6 +9,9 @@
 - Printing the Accuracy and Confusion Matrix
 
 
+
+
+
 ## TASK 2: Image to Pencil Sketch with Python
 **Converted an RGB Image into a Pencil Sketch with the help of following steps**
 - Importing OpenCV Library
