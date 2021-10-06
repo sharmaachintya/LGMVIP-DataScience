@@ -30,4 +30,7 @@
 -------------------------------------------------------
 <br></br>
 
-## TASK 3: 
+
+## TASK 3: Exploratory Data Analysis on Dataset - Terrorism
+<br></br>
+**Performed Exploratory Data Analysis on Terrorism Dataset**
