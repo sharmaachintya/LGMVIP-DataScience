@@ -34,3 +34,24 @@
 ## TASK 3: Exploratory Data Analysis on Dataset - Terrorism
 <br></br>
 **Performed Exploratory Data Analysis on Terrorism Dataset**
+<br></br>
+<br></br>
+
+-------------------------------------------------------
+<br></br>
+
+
+## TASK 4: Prediction using Decision Tree Algorithm
+<br></br>
+**Performed Decision Tree Algorithm on the given dataset and visualized it**
+- Importing all the necessary Libraries
+- Loading the Dataset
+- Removing the column which is not required
+- Checking if there is any Null values present in dataset
+- Splitting the dataset 
+- Using LabelEncoder in the pre processing
+- Splitting the Dataset into Training and Testing
+- Creating the Decision Tree Classification Model
+- Printing the Accuracy of the model
+- Visualizing the Decision Tree
+- Printing the Confusion Matrix
